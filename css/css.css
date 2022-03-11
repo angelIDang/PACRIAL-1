@@ -1,0 +1,40 @@
+.elemeno1{
+    justify-content: space-between;
+    background-color: rgb(250, 59, 59);
+    align-items: center;
+}
+
+.elemnto_constructor{
+    justify-content: space-between;
+    display: flex;
+}
+.const{
+    margin-left: 20px;
+    color: white;
+}
+
+.const1{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin: 20px;
+}
+
+
+.const1 a{
+    text-decoration: none;
+    color: white;
+}
+
+.primero1{
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.constructor_1{
+    justify-content: space-between;
+    display: flex;
+    margin: 40px;
+}
